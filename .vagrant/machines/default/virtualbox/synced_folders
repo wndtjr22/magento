@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/ericlee/Desktop/dev/magento/aws","disabled":false},"/var/www/source":{"create":true,"guestpath":"/var/www/source","hostpath":"C:/Users/ericlee/Desktop/dev/magento/aws/source","disabled":false}}}
